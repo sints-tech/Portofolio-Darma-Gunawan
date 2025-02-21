@@ -1,0 +1,2 @@
+function a(t,e){return{description:"Selamat datang di portofolio Darma Gunawan! Dengan pengalaman dalam Digital Marketing, SEO, dan Web Development, saya menciptakan pengalaman pengguna yang luar biasa. Klik untuk melihat proyek yang telah saya kerjakan!",favicon:"https://framerusercontent.com/assets/N44boHZiMp1u3JtptWKVQTd5LK4.png",robots:"max-image-preview:large",socialImage:"https://framerusercontent.com/assets/atp8mBj0moum9dI8zh5mqFNT1o.png",title:"Portofolio Darma Gunawan"}}export{a};
+//# sourceMappingURL=chunk-DXIVSDTP.mjs.map
