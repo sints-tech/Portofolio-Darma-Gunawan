@@ -1,0 +1,6 @@
+import{jsx as e}from"react/jsx-runtime";import{motion as t}from"framer-motion";// Created using FramerOverrides.com - do not distribute export const withTap=r=>a=>/*#__PURE__*/e(r,{...a,as:t.div,style:{},whileTap:{scale:.9,y:3,transition:{duration:.3,ease:"anticipate",repeat:0,repeatDelay:0,delay:0}}});export
+const withScale=r=>a=>/*#__PURE__*/e(r,{...a,as:t.div,style:{},whileHover:{scale:1.3,transition:{duration:.15,ease:"spring",repeat:0,repeatDelay:0,delay:0}}});export function withGreeting(t){return r=>{let a=new Date().getHours();return /*#__PURE__*/e(t,{...r,text:a
+<12?
+    "Good morning,":a>=12&&a
+    <=17? "Good afternoon,": "Good evening,"});};} export const __FramerMetadata__={ "exports":{ "withTap":{ "type": "reactHoc", "name": "withTap", "annotations":{ "framerContractVersion": "1"}}, "withScale":{ "type": "reactHoc", "name": "withScale",
+        "annotations":{ "framerContractVersion": "1"}}, "withGreeting":{ "type": "reactHoc", "name": "withGreeting", "annotations":{ "framerContractVersion": "1"}}, "__FramerMetadata__":{ "type": "variable"}}} //# sourceMappingURL=./FramerOverrides.com.map
